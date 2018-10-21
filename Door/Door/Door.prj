@@ -1,0 +1,10 @@
+<Project name="Door" guid="43cd134a-2184-4966-96a6-316b469d767d">
+	<Object name="left" guid="3349579b-01d1-4ae8-962f-7dfff4cb2856">
+		<Script name="left.lsl" guid="43f97cc6-8056-4379-ae00-05c908579c6e">
+		</Script>
+	</Object>
+	<Object name="right" guid="c20ec9bd-33fc-4c01-8cb6-87eb05387ce7" active="true">
+		<Script name="right.lsl" guid="d13b4d9c-e953-43af-938b-8123dfea5a57">
+		</Script>
+	</Object>
+</Project>
