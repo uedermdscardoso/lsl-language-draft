@@ -1,0 +1,70 @@
+<Project name="Calculator" guid="bd51e820-decd-4f3b-9c69-a02321378eb2">
+	<Object name="0" guid="0659af27-3a0a-4084-963a-716969302dec" active="true">
+		<Script name="0.lsl" guid="00fa5c5c-b848-4a60-9c6a-89fd2faac97c">
+		</Script>
+	</Object>
+	<Object name="1" guid="539dd1e7-c5d3-41b0-ba58-24a099e057e1">
+		<Script name="1.lsl" guid="95db3271-08db-40ab-b488-38bab6aac088">
+		</Script>
+	</Object>
+	<Object name="2" guid="4fc77729-52f8-4fe2-b532-1a52ba855675">
+		<Script name="2.lsl" guid="f03aee10-cf36-42fd-af93-539f16a5bf7c">
+		</Script>
+	</Object>
+	<Object name="3" guid="a71e7fb2-787e-4dd9-b3d2-b1c4091ddad0">
+		<Script name="3.lsl" guid="1f900628-9d72-4ce5-ad8c-53ad9b16acbf">
+		</Script>
+	</Object>
+	<Object name="4" guid="c78ec34f-7b14-4845-b493-9a938ba3c00d">
+		<Script name="4.lsl" guid="aa262edb-e61b-4add-a8d4-d410f32cba8c">
+		</Script>
+	</Object>
+	<Object name="5" guid="890b4a7e-ee42-4231-9112-9eaa2fd97a44">
+		<Script name="5.lsl" guid="b5c99f11-1bb9-4405-9441-22ea9294f67f">
+		</Script>
+	</Object>
+	<Object name="6" guid="5f23fd4a-31c8-4b29-abd3-1ee74c2e4ef1">
+		<Script name="6.lsl" guid="37064f3f-fb8b-426d-b17e-efcd2d022058">
+		</Script>
+	</Object>
+	<Object name="7" guid="ca4cf079-c12c-405d-b007-5bfa07106b73">
+		<Script name="7.lsl" guid="05de8abe-888f-4d3b-8495-54ebcaa5915d">
+		</Script>
+	</Object>
+	<Object name="8" guid="f1a1b370-1279-4254-81f8-c0db2292f8f8">
+		<Script name="8.lsl" guid="e43363a7-e3ad-4961-bf5e-06963ced94f7">
+		</Script>
+	</Object>
+	<Object name="9" guid="ac66e6ec-0586-45e1-bb18-299b372c3828">
+		<Script name="9.lsl" guid="134510f4-5cb2-4b68-91fa-f127d0fa5e2e">
+		</Script>
+	</Object>
+	<Object name="division" guid="84c5de98-3218-4bb3-8e41-1bdf1e1e7615">
+		<Script name="division.lsl" guid="d4a07607-76eb-4a9b-8c14-5653fe07f579">
+		</Script>
+	</Object>
+	<Object name="erase" guid="93b62be4-ae16-4ddf-a6a2-34602becd3ec">
+		<Script name="erase.lsl" guid="05065fde-1a64-44dc-b4ca-c1815b50db96">
+		</Script>
+	</Object>
+	<Object name="multiplication" guid="d9330a4c-0c36-4bad-9fe5-9d09608f7e82">
+		<Script name="multiplication.lsl" guid="815e805b-d9fa-474c-a879-4108e43ef547">
+		</Script>
+	</Object>
+	<Object name="addition" guid="77dbe475-5bd3-4f1a-9253-df9e4898cd52">
+		<Script name="addition.lsl" guid="d78cdc06-d3f4-4c29-9213-e3d287836dbc">
+		</Script>
+	</Object>
+	<Object name="equal" guid="8953855e-5836-482a-894c-8d33e111e312">
+		<Script name="equal.lsl" guid="7e519aed-bbb0-4167-9b84-a54a28ef156b">
+		</Script>
+	</Object>
+	<Object name="view" guid="be61a246-50be-42b3-aa1c-38dfa321e353">
+		<Script name="calc-logic.lsl" guid="2abd6fdf-98ff-44fe-be9f-cecdd25fc9b4">
+		</Script>
+	</Object>
+	<Object name="subtraction" guid="282c459f-499f-4501-a90f-4505b6117797">
+		<Script name="subtraction.lsl" guid="03f06c7a-93a4-4abe-b9be-545a87c8c48b">
+		</Script>
+	</Object>
+</Project>

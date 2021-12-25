@@ -1,0 +1,24 @@
+<Project name="Count of Clicks" guid="9de8eb33-b57d-4a21-b5b7-4f44d81ebf6f">
+	<Object name="dezena" guid="474c52a1-094d-4956-923a-b4ee1e78129a">
+		<Script name="dezena.lsl" guid="cf18267d-6ba1-468f-9a5e-3338e6e3ff79">
+		</Script>
+		<Snapshot name="numerais.png" guid="b14376fa-ad4a-4304-b9d9-5b98cf7bfcfc">
+		</Snapshot>
+	</Object>
+	<Object name="foto" guid="30bd367e-c5c9-4db8-8b6e-21929c57e30a">
+		<Script name="foto.lsl" guid="13e5f213-bf8a-4a31-8105-a758eeecafdd">
+		</Script>
+		<Object name="premio" guid="b91d0678-5ef9-494b-898e-00f6b1d88ef6">
+		</Object>
+	</Object>
+	<Object name="unidade" guid="02a2bce8-77fd-4a68-bd0e-f03ae149c95b">
+		<Snapshot name="numerais.png" guid="200af2ea-0b8d-4b34-8a55-e4e004a2d57e">
+		</Snapshot>
+		<Script name="unidade.lsl" guid="f0e80895-7850-4f88-addd-88a8cd704470">
+		</Script>
+	</Object>
+	<Object name="reset" guid="8bef7c37-b45f-4996-875f-bcf393c13bb0" active="true">
+		<Script name="reset.lsl" guid="e89036ae-cba0-4769-9705-be2c3a049919">
+		</Script>
+	</Object>
+</Project>
